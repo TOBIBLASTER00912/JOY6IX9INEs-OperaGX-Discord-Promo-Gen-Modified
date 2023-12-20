@@ -43,7 +43,7 @@ def gen():
                 if token:
                     counter.count += 1
                     ctypes.windll.kernel32.SetConsoleTitleW(
-                            f"Opera Gx Promo Gen | Made With <3 By Joy"
+                            f"Opera Gx Promo Gen | Made With <3 By Joy & TOBIBLASTER0912"
                             f" | Generated : {counter.count}")
                     link = f"https://discord.com/billing/partner-promotions/1180231712274387115/{token}"
                     with open("promos.txt", "a") as f:
