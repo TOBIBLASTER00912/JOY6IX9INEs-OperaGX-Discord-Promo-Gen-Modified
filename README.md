@@ -32,4 +32,4 @@ python gen.py
 4. Enter the number of threads when prompted.
 
 # Note
-This script is intended for educational purposes only. Use it responsibly and respect Discord's & OperaGx's terms of service.
+This script is intended for educational purposes only. Use it responsibly and respect Discord's & OperaGx's terms of service. This script is created by JOY6IX9INE! All Credit belongs to him! [Original Repo]{https://github.com/JOY6IX9INE/OperaGX-Discord-Promo-Gen}
