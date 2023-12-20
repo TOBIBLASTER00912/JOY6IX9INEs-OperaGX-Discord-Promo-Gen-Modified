@@ -50,8 +50,8 @@ def gen():
                         f.write(f"{link}\n")
                     print(f"{get_timestamp()} {green} Generated Promo Link : {link}")
             elif response.status_code == 429:
-                print(f"{get_timestamp()} {yellow} You are being rate-limited! Waiting 1 Minute...")
-                time.sleep(60)  # Wait for 5 seconds before trying again
+                print(f"{get_timestamp()} {yellow} You are being rate-limited! Waiting 5 Minutes... (You are getting ratelimited for ~5 minutes)")
+                time.sleep(3200)
             else:
                 print(f"{get_timestamp()} {red} Request failed : {response.status_code}")
         except Exception as e:
