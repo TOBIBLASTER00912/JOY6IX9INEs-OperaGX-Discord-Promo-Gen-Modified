@@ -58,7 +58,7 @@ def gen():
             print(f"{get_timestamp()} {red} Request Failed : {e}")
 
 def main():
-    num_threads = int(input(f"{get_timestamp()} {blue} Enter Number Of Threads : "))
+    num_threads = int(input(f"{get_timestamp()} {blue} Enter Number Of Threads (1 HIGHLY recommended) : "))
     
     threads = []
     for i in range(num_threads):
