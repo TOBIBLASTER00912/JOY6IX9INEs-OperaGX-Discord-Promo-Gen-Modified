@@ -2,6 +2,10 @@
 
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
+## Showcase
+
+https://streamable.com/vf3cd2
+
 ## Overview
 
 This Python script allows you to generate discord promo links. It utilizes threading for concurrent generation, and you have the option to use proxies to avoid rate limits. (Edit by TOBIBLASTER0912: I recommend doing 1 Thread so you dont get ratelimited that fast.)
