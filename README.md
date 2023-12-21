@@ -20,16 +20,11 @@ This Python script allows you to generate discord promo links. It utilizes threa
 pip install requests
 ```
 
-2. Enter proxies in proxies.txt in the following format:
-```ruby
-username:password@host:port
-```
-
-3. Run the Script:
+2. Run the Script:
 ```bash
 python gen.py
 ```
-4. Enter the number of threads when prompted.
+3. Enter the number of threads when prompted.
 
 # Note
 This script is intended for educational purposes only. Use it responsibly and respect Discord's & OperaGx's terms of service. This script is created by JOY6IX9INE! All Credit belongs to him! [Original Repo](https://github.com/JOY6IX9INE/OperaGX-Discord-Promo-Gen)
