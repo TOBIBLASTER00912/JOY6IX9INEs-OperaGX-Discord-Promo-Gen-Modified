@@ -25,7 +25,7 @@ pip install requests
 python gen.py
 ```
 3. Enter the number of threads when prompted.
-```bash
+```
 1 Thread recommended! Your IP gets blacklisted pretty fast if you use more than 1! Be careful!
 ```
 
